@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: image: gcr.io/bamboo-magnet-362304/imgwebapp:v1
+        image: gcr.io/bamboo-magnet-362304/imgwebapp:v1
         ports:
         - containerPort: 8501
