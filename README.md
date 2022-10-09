@@ -1,4 +1,4 @@
 # ContinuousModelDeploy
 Continuous Model Deployment for MLOps
 
-Updating to trigger the trigger in GCP Cloud Build
+Trying to execute an automatic trigger based on changes made in GitHub Repo integrated to GCP cloud build.
